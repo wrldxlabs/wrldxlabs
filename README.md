@@ -76,7 +76,6 @@ The WRLDX basket is not static. It expands based on the will of the community. H
 - **Website / dApp:** [wrldx.fun](https://wrldx.fun)
 - **World Desk (Telegram):** [t.me/wrldx6900](https://t.me/wrldx6900)
 - **X (Twitter):** [@wrldx6900](https://x.com/wrldx6900)
-- **Treasury Tracker:** [wrldx.fun/treasury](https://wrldx.fun/treasury)
 
 ---
 <div align="center">
