@@ -56,8 +56,8 @@ The WRLDX6900 project is open-source and modular. Explore the core components be
 
 | Repository | Description |
 | :--- | :--- |
-| 🖥️ [**wrldx-aggregator**]([./wrldx-aggregator](https://github.com/wrldxlabs/wrldx-aggregator)) | The TypeScript computation engine. Calculates the World Level, tracks constituent prices, and runs the Treasury Watcher to log fee buybacks. |
-| 📜 [**wrldx-manifesto**]([./wrldx-manifesto](https://github.com/wrldxlabs/wrldx-manifesto)) | The theoretical core. Contains the official Whitepaper, Threat Model, and deep-dives into the economic mechanics of the index. |
+| 🖥️ [**wrldx-aggregator**](https://github.com/wrldxlabs/wrldx-aggregator) | The TypeScript computation engine. Calculates the World Level, tracks constituent prices, and runs the Treasury Watcher to log fee buybacks. |
+| 📜 [**wrldx-manifesto**](https://github.com/wrldxlabs/wrldx-manifesto) | The theoretical core. Contains the official Whitepaper, Threat Model, and deep-dives into the economic mechanics of the index. |
 
 ---
 
